@@ -1,4 +1,4 @@
-const apiKey = 'sk-proj-gvRVoLsdTTJRdywqVOXIT3BlbkFJUwWhB9VIrBigJvusmHRI'; // Replace this with your actual API key
+const apiKey = 'sk-proj-q7h6uxJYa63N2SEXkZtqT3BlbkFJR0W59EEVneBnuTTwpwYG'; // Replace this with your actual API key
 
 const searchButton = document.getElementById('searchButton');
 const languageButton = document.getElementById('languageButton');
